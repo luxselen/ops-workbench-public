@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 构建产物
+build/
+dist/
+
+# 运行时数据
+.ops_workbench/
+runtime.json
+_build/
+_chk_files.txt
+_git_url.txt
+
+# 日志
+*.log
+logs/
+
+# 文档（按需）
+*.md
+
+# IDE
+.vscode/
+.idea/
+
+# 临时
+*.spec.bak
